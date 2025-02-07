@@ -9,10 +9,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - HTML
 - CSS
 
-## Live site
-
-- [Live preview](https://davichobits.github.io/faq-accordeon/)
-
 ## Author
 
 David Ruiz - Frontend Developer
